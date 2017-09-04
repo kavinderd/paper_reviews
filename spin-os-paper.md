@@ -3,9 +3,9 @@
 Authors: Bershad, Savage et al.
 Institution: University of Washington
 
-##Summary
+## Summary
 
-###Motivation
+### Motivation
 The researchers felt there was a need for an OS that better met
 the variable needs of different applications. They cite criticism from both
 Database and Network application developers that experience poor performance in
@@ -16,7 +16,7 @@ traditional operating systems
 
 Can SPIN be the best of both worlds?
 
-###Contribution
+### Contribution
 
 The researchers contribute SPIN OS as an alternate OS architecture. SPIN OS is designed to provide the following:
 
@@ -24,7 +24,7 @@ The researchers contribute SPIN OS as an alternate OS architecture. SPIN OS is d
 - safety: how well applications are protected from each other
 - performance: comparable performance of applications compared to traditional OS designs
 
-###Methodology
+### Methodology
 The researchers achieved their goal in SPIN OS by doing the following
 
 1. Colocation of OS & extension services = low cost of communication
@@ -51,7 +51,7 @@ Open Questions:
 - How does SPIN handle memory management?
 - How does SPIN handle thread management?
 
-###Conclusion
+### Conclusion
 
 Open Questions
 - What are the conclusions the researchers make about SPIN OS?
